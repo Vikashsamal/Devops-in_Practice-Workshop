@@ -17,7 +17,7 @@
   <properties>
 
     <!-- Generic properties -->
-    <java.version>11</java.version>
+    <java.version>11</java.version>/Users/hotty/Desktop/STUDY/DevOps/Project/Practice/spring-petclinic/pom.xml
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
